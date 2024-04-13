@@ -1,3 +1,3 @@
-## 插件说明
+# Suno
 
-suno 音乐生成插件
+Suno ChatGPT on Wechat 音乐生成插件
